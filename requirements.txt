@@ -1,0 +1,6 @@
+validators==0.28.1
+youtube_transcript_api
+unstructured
+langchain_groq
+langchain-community
+langchain
