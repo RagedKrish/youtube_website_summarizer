@@ -4,3 +4,4 @@ unstructured
 langchain_groq
 langchain-community
 langchain
+streamlit
